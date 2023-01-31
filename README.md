@@ -1,3 +1,6 @@
-# Spotify
-HTML CSS &amp; Bootstrap
-Página inicial do spotify com html css e alguns recursos do bootstrap.
+Very simple Clone of Spotifu website developed only with HTML, CSS and Bootstrap
+
+- Grid Layout
+- Responsive Design
+- Media Queries
+- Bootstrap components
